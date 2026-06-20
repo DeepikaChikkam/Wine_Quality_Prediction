@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Prediction - Advanced Classification (Project 3)
+# 🍷 Wine Quality Prediction - Advanced Classification 
 
 ### **Objective**
 To build a robust classification model to predict wine quality based on physicochemical attributes, demonstrating skills in Regression/Classification model comparison.
